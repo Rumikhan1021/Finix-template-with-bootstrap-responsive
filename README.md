@@ -1,0 +1,1 @@
+# Finix-template-with-bootstrap-responsive
